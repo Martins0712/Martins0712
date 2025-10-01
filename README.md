@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">⚡Ola meu nome é Luis Felype!<br>💻Desenvolvedor back-end Java, focado em APIs, microservices e bancos de dados.<br>☕Sempre em busca de novos desafios neste mundo repleto de tecnologia.</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJuamUyc3djNGRqdGM5bjVtb3kzdm03eWpyb3luZzZ1cDJiN3VlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tRoH9EYLs3lok/giphy.gif"  />
 
 ###
 
