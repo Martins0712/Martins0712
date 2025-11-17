@@ -34,4 +34,11 @@
 </div>
 
 ###
-![snake gif](https://github.com/Martins0712/README.md/blob/output/github-contribution-grid-snake.svg)
+
+
+  ![Snake animation](https://github.com/aMartins0712/Martins0712/blcb/output/github-contribution-grid-snake.sve)
+
+
+
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Martins0712&repo=Martins0712&theme=react)](https://github.com/Martins0712/Martins0712)
