@@ -35,9 +35,7 @@
 
 ###
 
-
-  ![Snake animation](https://github.com/aMartins0712/Martins0712/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/Martins0712/Martins0712/blob/output/github-contribution-grid-snake.svg)
 
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Martins0712&repo=Martins0712&theme=react)](https://github.com/Martins0712/Martins0712)
