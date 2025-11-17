@@ -36,8 +36,7 @@
 ###
 
 
-  ![Snake animation](https://github.com/aMartins0712/Martins0712/blcb/output/github-contribution-grid-snake.sve)
-
+  ![Snake animation](https://github.com/aMartins0712/Martins0712/blob/output/github-contribution-grid-snake.svg)
 
 
 
