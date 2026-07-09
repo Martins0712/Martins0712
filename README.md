@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://yt3.googleusercontent.com/sbknt7hweoIpYAqf_KyTjlDpe3DFdmG4MSd6mLITqhgVykim_cTf-4Tokamrw3X0iJ3a9h334g=s900-c-k-c0x00ffffff-no-rj)" height="30" alt="vscode logo"  />
+  <img src="https://media.discordapp.net/attachments/1524214916712501268/1524779924047794277/intellij-idea-logo-black-and-white.png?ex=6a50fd76&is=6a4fabf6&hm=42202e8caf5c31b4afa3cf106b3b04227ec4c0e14bce543c97d1a1e67a547837&=&format=webp&quality=lossless&width=980&height=980" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
