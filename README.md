@@ -1,4 +1,4 @@
-<h2 align="left">⚡Ola meu nome é Luis Felype!<br>💻Desenvolvedor back-end Java, focado em APIs, microservices e bancos de dados.<br>☕Sempre em busca de novos desafios neste mundo repleto de tecnologia.</h2>
+<h2 align="left">⚡Ola meu nome é Luis Felype!<br>💻Desenvolvedor back-end Java, focado em APIs, microservices e bancos de dados.<br>☕Sempre em busca de novos desafios e aprendizados.</h2>
 
 ###
 
