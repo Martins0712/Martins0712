@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src="[https://media.discordapp.net/attachments/1524214916712501268/1524779924047794277/intellij-idea-logo-black-and-white.png?ex=6a50fd76&is=6a4fabf6&hm=42202e8caf5c31b4afa3cf106b3b04227ec4c0e14bce543c97d1a1e67a547837&=&format=webp&quality=lossless&width=980&height=980](https://freebiesupply.com/logos/intellij-idea-logo/)" height="30" alt="idea-logo"  />
+  <img src="https://cdn.discordapp.com/attachments/1386699183418769561/1549738862421614602/intellijidea.png?ex=6aabca49&is=6aaa78c9&hm=0a3aa599c1f2044b392134aa54c8af17a0daddccdfa4969fc20605096bb5dbae&" height="30" alt="idea-logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
